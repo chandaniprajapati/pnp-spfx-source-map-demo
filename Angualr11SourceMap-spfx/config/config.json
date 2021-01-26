@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "angular-11-source-map-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/angular11SourceMap/Angular11SourceMapWebPart.js",
+          "manifest": "./src/webparts/angular11SourceMap/Angular11SourceMapWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "Angular11SourceMapWebPartStrings": "lib/webparts/angular11SourceMap/loc/{locale}.js"
+  }
+}

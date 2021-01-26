@@ -1,0 +1,14 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.11.0",
+    "libraryName": "angualr-11-source-map-spfx",
+    "libraryId": "d40dc0da-9c2f-4b9b-89f8-d3595560c622",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "Angualr11SourceMap-spfx",
+    "framework": "none",
+    "isCreatingSolution": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
